@@ -173,7 +173,7 @@ var projects = {
 		"title": "Huinawai",
 		"dates": "8/14 - Current",
 		"description": "I am the project manager for our new home on the Big Island of Hawaii. We found land in 2011; we finished architectural design in 2014; we broke ground in 2015; and we are expected to move in April, 2016. ",
-		"images": ["images/huinawai1.jpg", "images/huinawai3.jpg"]
+		"images": ["images/huinawai1.jpg", "images/huinawai4.jpg"]
 	}
 	]
 };
